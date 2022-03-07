@@ -103,7 +103,7 @@ usethis::use_git()
 #2)
 usethis::use_github(
   #Criando um repositório público:
-  private = FALSE) #TRUE consiste em um repo privado
+  private = TRUE) #TRUE consiste em um repo privado
 
 
 #3)Crie o arquivo README: É um texto em formato rmarkdown contendo o que será feito naquele 
