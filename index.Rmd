@@ -1,0 +1,23 @@
+--- 
+title: "Configurando o Git e Github"
+author: "Gabriel Justo, Lucas Stefano"
+affiliation: "Departamento de Estatística - Universidade Estadual de Maringá"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  O Objetivo deste repositório é ajudá-lo a configurar o github no Rstudio. Vamos lá!
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Sobre
+
+O Objetivo deste manual é ajudá-lo a configurar o Git e o Github no ambiente do Rstudio. Mas ele também abrange a configuração para outras IDE's. Vamos lá!
+
+```{r git, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/reproducibility_court.png")
+```
