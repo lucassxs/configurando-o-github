@@ -1,6 +1,6 @@
 # Git 
 
-```{r pressure, echo=FALSE, out.width = '80%'}
+```{r pressuree, echo=FALSE, out.width = '80%'}
 knitr::include_graphics("https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png")
 ```
 
