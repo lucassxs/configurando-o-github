@@ -1,5 +1,6 @@
 --- 
 title: "Configurando o Git e Github"
+subtitle: "Departamento de Estatística - Universidade Estadual de Maringá"
 author: "Gabriel Justo, Lucas Stefano"
 affiliation: "Departamento de Estatística - Universidade Estadual de Maringá"
 date: "`r Sys.Date()`"
